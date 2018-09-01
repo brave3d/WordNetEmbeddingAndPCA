@@ -1,4 +1,4 @@
-# Word Net Embedding And PCA
+# WordNet Embedding And PCA
 This Notebook illustrate the calculation of Semantic Similarity using WordNet Embedding and Principal Component Analysis
 
 - Dataset: Embeddings for English WordNet 3.0 (plus gloss relations)
